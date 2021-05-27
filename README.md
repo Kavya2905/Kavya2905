@@ -1,16 +1,37 @@
-### Hi there 👋
+[![MasterHead](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F674554850423250134%2F&psig=AOvVaw3ElQ16yxd9Z92iIwKw09fM&ust=1622201494898000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCeu9Hh6fACFQAAAAAdAAAAABAD/profile-displaybackgroundimage-shrink_200_800/0/1600774582457?e=1620259200&v=beta&t=vXT6lMDE7ZIkd9OGzG5yLkRLmTDt0kijoQ-ly73bM3U)](https://khushboogoel01.github.io)
+<h1 align="center">Hi 👋, I'm Kavya</h1>
+<h3 align="center">A professional student possessing strong communication and leadership abilities, highly passionate towards learning and skill development.</h3>
 
-<!--
-**Kavya2905/Kavya2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [blog](https://kavyasathish2000.wixsite.com/tech-in)
+
+- 🌱 I’m currently learning **Electronics and Communication Engineering.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Kavya2905](https://github.com/Kavya2905)
+
+- 📝 I regularly write articles on [https://kavyasathish2000.wixsite.com/tech-in](https://kavyasathish2000.wixsite.com/tech-in)
+
+- 💬 Ask me about **Data Science, AI and ML.**
+
+- 📫 How to reach me **kavyasathish2000@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kavya-sathish-660395172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavya-sathish-660395172" height="30" width="40" /></a>
+<a href="/https://kavyasathish2000.wixsite.com/tech-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://kavyasathish2000.wixsite.com/tech-in" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kavya2905&show_icons=true&locale=en&layout=compact" alt="Kavya2905" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kavya2905&show_icons=true&locale=en" alt="Kavya2905" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavya2905&" alt="Kavya2905" /></p>
