@@ -1,5 +1,5 @@
 <img align="center" width="500" height="250px" alt="Coding" src="https://github.com/Kavya2905/Kavya2905/blob/main/pro.gif">
-<h1 align="center">Hi 👋, I'm Kavya</h1>
+<h1 align="center">Hi! My name is Kavya Sathish</h1>
 <h3 align="center">A professional student possessing strong communication and leadership abilities, highly passionate towards learning and skill development.</h3>
 
 
@@ -16,7 +16,6 @@
 
 - 📫 Reach out to me via [**mail**](kavyasathish2000@gmail.com)
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
