@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://github.com/Kavya2905/Kavya2905/blob/main/pro.gif">
+<img align="center" height="350px" alt="Coding" src="https://github.com/Kavya2905/Kavya2905/blob/main/pro.gif">
 <h1 align="center">Hi 👋, I'm Kavya</h1>
 <h3 align="center">A professional student possessing strong communication and leadership abilities, highly passionate towards learning and skill development.</h3>
 
