@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F674554850423250134%2F&psig=AOvVaw3ElQ16yxd9Z92iIwKw09fM&ust=1622201494898000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCeu9Hh6fACFQAAAAAdAAAAABAD/profile-displaybackgroundimage-shrink_200_800/0/1600774582457?e=1620259200&v=beta&t=vXT6lMDE7ZIkd9OGzG5yLkRLmTDt0kijoQ-ly73bM3U)](https://khushboogoel01.github.io)
+<img align="center" alt="Coding" width="400" src="">
 <h1 align="center">Hi 👋, I'm Kavya</h1>
 <h3 align="center">A professional student possessing strong communication and leadership abilities, highly passionate towards learning and skill development.</h3>
 
