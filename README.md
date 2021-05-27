@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="400" src="">
 <h1 align="center">Hi 👋, I'm Kavya</h1>
 <h3 align="center">A professional student possessing strong communication and leadership abilities, highly passionate towards learning and skill development.</h3>
 
