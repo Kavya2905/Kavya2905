@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on my [**blog**](https://kavyasathish2000.wixsite.com/tech-in)
 
-- 💬 Captivated by the potency of **technology**.
+- 💬 I love to learn about **technology**.
 
 - 📫 Reach out to me via [**mail**](kavyasathish2000@gmail.com)
 
